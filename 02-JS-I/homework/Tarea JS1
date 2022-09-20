@@ -1,0 +1,3 @@
+Una variable identificada como var se utiliza para asignar o almacenar un valor a un texto a traves del signo = para usarlo mas tarde.
+String es un bloque de texto, el que para que se identifique como tal siempre debe estar entre comillas.
+Con la palabra function indicamos justamente que lo que sigue es una función, la cual va seguida de la descripción de la función, luego dos paréntesis () (abierto y cerrado), y luego entre dos corchetes se se coloca el código a ejecutar.
