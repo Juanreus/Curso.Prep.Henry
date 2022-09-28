@@ -1,0 +1,2 @@
+Un bucle for es una funcion que nos ayuda a repetir muchas veces un bucle de código a partir de tres parámetros: una variable que indica donde comienza, un valor que indica en donde termina el bucle y por último un contador para que sea progresivo.
+Están los operadores lógicos: and, símbolo && (significa y); or símbolo || (significa o); not símbolo ! (significa negación)
