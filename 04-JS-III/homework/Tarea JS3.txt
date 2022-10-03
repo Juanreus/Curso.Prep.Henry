@@ -1,0 +1,3 @@
+Definicion de ARRAY
+
+Un Array o arreglo es una variable en donde puedo guardar una lista de elementos que pueden ser de cualquier tipo (numeros, strings, boleanos, funciones,otros arreglos etc.), para acceder luego a todos o individualmente a cada uno.
